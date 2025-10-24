@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently **building full-stack projects** to sharpen my MERN skills  
 - 🤝 I’m looking to collaborate on **Open Source Contributions related to the MERN Stack**  
-- 💡 I love exploring **UI/UX-driven designs** and turning ideas into interactive web apps  
+- 💡 I like exploring **UI/UX-driven designs** and turning ideas into interactive web apps  
 - 🚀 I’m aiming to **contribute to impactful real-world projects** that solve meaningful problems  
 
 ---
