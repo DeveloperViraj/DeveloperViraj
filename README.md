@@ -1,89 +1,60 @@
-<h1 align="center">Hi👋, I'm DeveloperViraj</h1>
-<h3 align="center">Aspiring Full-Stack Web Developer</h3>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=7a4f8f&height=180&section=header&text=Hi%20👋,%20I'm%20DeveloperViraj&fontSize=40&fontColor=ffffff&animation=twinkling" width="100%"/>
+
+  <h2 style="font-size: 1.5em; margin: 20px 0; color: #9a6fc4;">
+    ⚡ Full-Stack Developer | Open Source Contributor ⚡
+  </h2>
+
+  <p align="center">
+    <a href="https://github.com/DeveloperViraj">
+      <img src="https://komarev.com/ghpvc/?username=developerviraj&label=Profile%20views&color=7a4f8f&style=flat" alt="profile views"/>
+    </a>
+  </p>
+</div>
 
 ---
 
-### 👨‍💻 About Me  
+## 👨‍💻 About Me  
 
-- 🌱 I’m currently **building full-stack projects** to sharpen my MERN skills  
-- 🤝 I’m looking to collaborate on **Open Source Contributions related to the MERN Stack**  
-- 💡 I like exploring **UI/UX-driven designs** and turning ideas into interactive web apps  
-- 🚀 I’m aiming to **contribute to impactful real-world projects** that solve meaningful problems  
-
----
-
-<h3 align="left">🌐 Connect with me:</h3>
-<p align="left">
-<a href="https://instagram.com/virxjedits" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="virxjedits" height="30" width="40" />
-</a>
-<a href="https://www.leetcode.com/developerviraj" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="developerviraj" height="30" width="40" />
-</a>
-<a href="https://auth.geeksforgeeks.org/user/developerviraj" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="developerviraj" height="30" width="40" />
-</a>
-</p>
+- 🌱 Currently building **full-stack projects** to sharpen my MERN skills  
+- 🤝 Looking to collaborate on **Open Source Projects** in the MERN ecosystem  
+- 💡 Passionate about **UI/UX-driven designs** and interactive web apps  
+- 🚀 Focused on creating **impactful real-world digital experiences**
 
 ---
 
-<h3 align="left">⚙️ Languages and Tools:</h3>
-<p align="left"> 
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
-  </a> 
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
-  </a> 
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-  </a> 
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer">
-    <img src="https://cdn.simpleicons.org/express/FFFFFF" alt="express" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-  </a> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  </a> 
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-  </a> 
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
-  </a> 
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
-  </a> 
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
-  </a> 
-  <a href="https://www.java.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-  </a> 
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-  </a> 
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  </a> 
-</p>
+## 🧠 Tech Stack
 
----
+<div align="center">
 
-### 📊 GitHub Stats  
+```mermaid
+graph TD
+  A[Frontend] --> B[React]
+  A --> C[Next.js]
+  A --> D[Tailwind CSS]
+  E[Backend] --> F[Node.js]
+  E --> G[Express.js]
+  H[Database] --> I[MongoDB]
+  H --> J[MySQL]
+  K[Languages] --> L[C++]
+  K --> M[JavaScript]
+  K --> N[Python]
+</div>
+<div align="center"> <p> <img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black" /> <img src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" /> <img src="https://img.shields.io/badge/-Express-000000?style=for-the-badge&logo=express&logoColor=white" /> <img src="https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" /> <img src="https://img.shields.io/badge/-TailwindCSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white" /> <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /> <img src="https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" /> <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" /> </p> </div>
+🌐 Connect With Me
+<div align="center"> <a href="https://instagram.com/virxjedits" target="_blank"> <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/> </a> <a href="https://leetcode.com/developerviraj" target="_blank"> <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/> </a> <a href="https://auth.geeksforgeeks.org/user/developerviraj" target="_blank"> <img src="https://img.shields.io/badge/-GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/> </a> </div>
+🏆 Achievements & GitHub Highlights
+<div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=developerviraj&theme=midnight-purple&no-frame=true&column=6&margin-w=15&margin-h=15" alt="GitHub Trophies"/> </div>
+📊 GitHub Stats
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=developerviraj&layout=compact&theme=tokyonight" alt="Top Languages" height="160"/>
-</p>
 
----
+</div>
+🔥 Contribution Streak
+<div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=developerviraj&theme=midnight-purple&hide_border=true" alt="streak"/> </div>
+🕹️ Pacman Contribution Graph
+<picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/developerviraj/developerviraj/output/pacman-contribution-graph-dark.svg"> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/developerviraj/developerviraj/output/pacman-contribution-graph.svg"> <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/developerviraj/developerviraj/output/pacman-contribution-graph.svg"> </picture>
+⚡ Fun Fact
+💭 “Code, create, repeat — and let curiosity lead innovation.”
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/developerviraj/developerviraj/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/developerviraj/developerviraj/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/developerviraj/developerviraj/output/pacman-contribution-graph.svg">
-</picture>
-
----
+<footer align="center" style="padding: 20px; background-color: #7a4f8f; border-radius: 10px; margin-top: 20px;"> <p style="color: white; font-size: 1.2em; margin: 0;">🚀 <strong>Follow Me on GitHub:</strong></p> <a href="https://github.com/developerviraj" style="text-decoration: none; color: #9a6fc4; font-weight: bold; font-size: 1.5em;"> <img src="https://img.icons8.com/color/48/000000/github-2.png" alt="GitHub" style="vertical-align: middle; margin-right: 10px;" /> DeveloperViraj </a> <p style="color: white; font-size: 0.9em; margin-top: 10px;">Made with ❤️ by DeveloperViraj</p> </footer> ```
