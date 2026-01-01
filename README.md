@@ -3,7 +3,7 @@
 
 ---
 
-### 👨‍💻 About Me  
+### About Me  
 
 - 🌱 I’m currently **building full-stack projects** to sharpen my MERN skills  
 - 🤝 I’m looking to collaborate on **Open Source Contributions related to the MERN Stack**  
