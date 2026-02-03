@@ -72,9 +72,6 @@
 
 ---
 
-
----
-
 <picture>
 
 
@@ -84,3 +81,7 @@
 </picture>
 
 ---
+
+## 📊 GitHub Activity Graph
+
+![Viraj's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=developerviraj&theme=github-compact&area=true&color=00ff88&line=00ff88&point=ffffff&area_color=00ff88)
