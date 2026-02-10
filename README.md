@@ -11,14 +11,14 @@
 
 ### About Me  
 
-- 🌱 I’m currently **building full-stack projects** to sharpen my MERN skills  
-- 🤝 I’m looking to collaborate on **Open Source Contributions related to the MERN Stack**  
-- 💡 I like exploring **UI/UX-driven designs** and turning ideas into interactive web apps  
-- 🚀 I’m aiming to **contribute to impactful real-world projects** that solve meaningful problems  
+-  I’m currently **building full-stack projects** to sharpen my MERN skills  
+-  I’m looking to collaborate on **Open Source Contributions related to the MERN Stack**  
+-  I like exploring **UI/UX-driven designs** and turning ideas into interactive web apps  
+-  I’m aiming to **contribute to impactful real-world projects** that solve meaningful problems  
 
 ---
 
-<h3 align="left">🌐 Connect with me:</h3>
+<h3 align="left"> Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/virxjedits" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="virxjedits" height="30" width="40" />
@@ -33,7 +33,7 @@
 
 ---
 
-<h3 align="left">⚙️ Languages and Tools:</h3>
+<h3 align="left"> Languages and Tools:</h3>
 <p align="center"> 
   <img src="https://skillicons.dev/icons?i=c,cpp,js,html,css,react,nodejs,express,mongodb,tailwind,java,mysql,python" />
 </p>
