@@ -4,7 +4,7 @@
   <img src="https://media.tenor.com/1ZvVkDCpK6QAAAAd/matrix-code-rain.gif" width="100%" />
 </p>
 
-<h1 align="center">Hi, I'm DeveloperViraj</h1>
+<h1 align="center">Hi,👋 I'm DeveloperViraj</h1>
 <h3 align="center">Aspiring Full-Stack Web Developer</h3>
 
 ---
