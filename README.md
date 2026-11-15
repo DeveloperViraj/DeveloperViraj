@@ -17,11 +17,6 @@
 -  I’m aiming to **contribute to impactful real-world projects** that solve meaningful problems  
 
 ---
-
-<h3 align="left"> Connect with me:</h3>
-<p align="left">
-<a href="https://instagram.com/virxjedits" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="virxjedits" height="30" width="40" />
 </a>
 <a href="https://www.leetcode.com/developerviraj" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="developerviraj" height="30" width="40" />
